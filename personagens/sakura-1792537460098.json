@@ -1,0 +1,18 @@
+{
+  "nome": "Sakura",
+  "gender": "fem",
+  "skin": "#f6cba8",
+  "hairStyle": 2,
+  "hairColor": "#ff7eb6",
+  "eyeColor": "#3a7bd5",
+  "eyeStyle": 0,
+  "mouth": 0,
+  "top": 1,
+  "topColor": "#ffffff",
+  "bottom": 2,
+  "bottomColor": "#2d2d3a",
+  "shoes": 0,
+  "shoeColor": "#2d2d3a",
+  "acc": 3,
+  "bg": 0
+}
